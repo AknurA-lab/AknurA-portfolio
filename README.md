@@ -11,4 +11,4 @@ My CV
 It's a repository for showcasing skills, sharing projects, and tracking my progress in my career.
 
 # Technical Skills
-## SQL 
+### - [SQL](sql.md)
