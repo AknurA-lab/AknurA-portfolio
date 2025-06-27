@@ -12,5 +12,5 @@ It's a repository for showcasing skills, sharing projects, and tracking my progr
 
 # Technical Skills
 ### - [SQL](sql.md)
-### - [Data Visualization](datavis.md)
+### - [Python](python.md)
 
